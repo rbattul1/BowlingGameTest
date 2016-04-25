@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>BowlingGmaeTest</label>
+	</settings>
+	<users>
+		<user>
+			<path>BowlingGmaeTest.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>BowlingGmaeTest.jcp</path>
+		</project>
+	</projects>
+</workspace>
